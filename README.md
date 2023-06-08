@@ -11,7 +11,7 @@ Physics - Network Analysis - Graph Theory - Linear Algebra
 **E-mail**: vgauss23@outlook.com | vgauss07@gmail.com
 
 
-**Social media**:(https://www.linkedin.com/in/jeffrey-ojuederhie-8715181a7)
+**Social media**: [LinkedIn](https://www.linkedin.com/in/jeffrey-ojuederhie-8715181a7)
 
 
 
