@@ -1,4 +1,4 @@
-## Mathematician and Data Scientist
+## Mathematician & Data Scientist
 
 ## Interests
 
