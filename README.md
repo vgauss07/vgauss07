@@ -3,7 +3,7 @@
 ## Interests
 
 Deep Learning - Neural Networks - Natural Language Processing - Bayesian Learning
-Machine Learning - Probability and Statistics - Artificial Intelligence -cDifferential Equation 
+Machine Learning - Probability & Statistics - Artificial Intelligence - Differential Equation 
 Quantum Physics - Network Analysis - Graph Theory - Linear Algebra
 
 ## Contact
