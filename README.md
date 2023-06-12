@@ -5,7 +5,7 @@
 Deep Learning - Neural Networks - Natural Language Processing - Bayesian Learning
 Machine Learning - Probability & Statistics - Artificial Intelligence - Differential Equation 
 Quantum Physics - Network Analysis - Graph Theory - Linear Algebra - Computer Vision - Data
-Exploration - Quantitative Finance.
+Exploration - Quantitative Modeling.
 
 ## Contact
 
