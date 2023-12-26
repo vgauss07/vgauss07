@@ -1,4 +1,4 @@
-## Mathematician & Data Scientist
+## Applied Mathematician: Machine Learning Engineering & Data Science
 
 ## Interests
 
