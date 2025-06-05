@@ -1,4 +1,4 @@
-## Applied Mathematician: ML/AI Engineer, Decision Science & Data Science.
+## Applied Mathematician: ML/AI Engineer, Data Scientist
 
 ## Interests
 
