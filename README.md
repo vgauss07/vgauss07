@@ -1,11 +1,11 @@
-## Applied Mathematician: Machine Learning Engineering, Decision Science & Data Science.
+## Applied Mathematician: ML/AI Engineer, Decision Science & Data Science.
 
 ## Interests
 
 Deep Learning - Neural Networks - Natural Language Processing - Bayesian Learning
 Machine Learning - Probability & Statistics - Artificial Intelligence - Differential Equation 
-Quantum Physics - Network Analysis - Graph Theory - Linear Algebra - Computer Vision - Data
-Exploration - Quantitative Modeling.
+Large Language Models - Quantum Physics - Network Analysis - Graph Theory - Linear Algebra 
+Computer Vision - Data Exploration - Quantitative Modeling.
 
 ## Contact
 
